@@ -66,4 +66,7 @@ Building strong practical skills in cybersecurity with a focus on:
 
 ---
 
-## Repository Structure
+## Usage Notice
+
+This repository is for **educational and portfolio purposes only.**
+Please do not copy, reuse, or redistribute the content without permission.
